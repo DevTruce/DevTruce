@@ -21,9 +21,9 @@
   <img src="skills/git.png" height="42px"/>
   <img src="skills/html.png" height="42px"/>
   <img src="skills/css.png" height="42px"/>
-  <img src="skills/figma.png" height="42px"/>
   <img src="skills/adobexd.png" height="42px"/>
   <img src="skills/adobephotoshop.png" height="42px"/>
+  <img src="skills/figma.png" height="42px"/>
 </p>
 
 <!--
