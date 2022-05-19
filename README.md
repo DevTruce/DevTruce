@@ -1,11 +1,11 @@
 ![](https://hit.yhype.me/github/profile?user_id=44925968)
-<img align='left' src='sprites/link.gif' width='25%'>  
-<img align='right' src='sprites/zelda.gif' width='25%'>  
+<img align='left' src='sprites/link.gif' width='20%'>  
+<img align='right' src='sprites/zelda.gif' width='20%'>  
 
 # BIO
 <p align="center">
   Hello👋, My name is Truce Ramcharitar. I am a 21 year old Web Developer 💻
-  I have a passion for building creative projects & turning my ideas into reality🎨.
+  I have a passion for building creative projects & turning my ideas into reality🎨
 </p>
 
 <p align="center">
