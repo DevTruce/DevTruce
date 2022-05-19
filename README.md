@@ -5,7 +5,7 @@
 # BIO
 <p align="center">
   Hello👋, My name is Truce Ramcharitar. I am a 21 year old Web Developer 💻
-  I have a passion for building creative projects & turning my ideas into reality🎨
+  I have a passion for building creative projects & turning my ideas into reality🎨.
 </p>
 
 <p align="center">
