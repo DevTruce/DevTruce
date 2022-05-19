@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=44925968)
-<img align='left' src='sprites/link.gif' width='20%'>  
-<img align='right' src='sprites/zelda.gif' width='20%'>  
+<img align='left' src='sprites/link.gif' width='19%'>  
+<img align='right' src='sprites/zelda.gif' width='19%'>  
 
 # BIO
 <p align="center">
@@ -12,7 +12,7 @@
   💻 Lover of FullStack, 🖥️ Technology, 🎨 Designing, 🌟 Creating, 🔒 Security, 🧠 Learning.
 </p>
 
-![](https://komarev.com/ghpvc/?username=Truce-R&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=DevTruce&color=blueviolet)
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my development skills.</p>
