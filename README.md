@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=44925968)
-<img align='left' src='sprites/link.gif' width='19%'>  
-<img align='right' src='sprites/zelda.gif' width='19%'>  
+<img align='left' src='sprites/link.gif' width='20%'>  
+<img align='right' src='sprites/zelda.gif' width='20%'>  
 
 # BIO
 <p align="center">
