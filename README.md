@@ -2,7 +2,7 @@
 <img align="left" src="sprites/link.gif" width="20%">  
 <img align="right" src="sprites/zelda.gif" width="20%">  
 
-# BIO
+<h1 align="center">BIO</h1>
 <p align="center">
   Hello👋, My name is Truce Ramcharitar. I am a 21 year old Web Developer 💻
   I have a passion for building creative projects & turning my ideas into reality🎨
