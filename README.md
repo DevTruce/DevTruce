@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=44925968)
 <img src="sprites/link.gif" align="left" width="20%">  
 <img src="sprites/zelda.gif" align="right" width="20%">  
 
