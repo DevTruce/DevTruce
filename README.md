@@ -6,12 +6,15 @@ Front End Web Developer and Designer. I spend most of time building fun projects
 
 [![Linkedin Badge](https://img.shields.io/badge/-TruceR-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truce-ramcharitar-2a7311223/) [![Twitter Badge](https://img.shields.io/badge/-@DevTruce-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/DevTruce) [![YouTube Badge](https://img.shields.io/badge/-DevTruce-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPCdYMQH-jbqmVWy8NMHoyw) [![Mail Badge](https://img.shields.io/badge/-@DevTruce-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dev_truce/) [![Mail Badge](https://img.shields.io/badge/-DevTruce-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:DevTruce@gmail.com)
 
-- 🔭 I’m currently working at:
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with:
-- 📫 How to reach me:
-- 😄 Pronouns:
-- ⚡ Fun fact:
+- 🔭 I’m currently working on: **Web Development projects**
+- :computer: Most used line of code: `justify-content: center;`
+- 🤔 I’m looking for help with: **Meeting new developers**
+- 🌱 I’m currently learning: **More CSS3 & JavaScript**
+- 💬 Ask me about: **Web Development & Design**
+- 👯 I’m looking to collaborate on: **Website Projects**
+- 📫 How to reach me: **DevTruce@gmail.com**
+- ⚡ Fun fact: **I love the limitless creation that comes with learning code**
+- 😄 Pronouns: **He/Him**
 
 #### Languanges & Technologies
 
