@@ -53,11 +53,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 <!-- Adobe Photoshop -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="AdobePS" width="40" height="40"/>&nbsp;
-<!-- VS Code -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<!-- Slack -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-</p>
 
 ---
 
