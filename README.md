@@ -9,7 +9,7 @@
 
 - 🔭 I have a passion for building creative things and turning ideas into reality with code!
 - 👨‍👩‍👧 I spend most of time building web apps or hanging out with my family.
-- 📖 I am currently taking an online bootcamp to advanced my skills as a developer.
+- 📖 I am currently taking an online bootcamp to advance my skills as a developer.
 - ⚡ In my freetime I enjoy completing code problems & playing videos games.
 - 📫 How to reach me: **DevTruce@gmail.com**
 
