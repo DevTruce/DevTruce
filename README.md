@@ -3,7 +3,7 @@
 <!-- LinkedIN -->
 <p align="center">
 <!-- <a href="https://www.linkedin.com/in/trucer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> -->
-  <a href="https://linktr.ee/devtruce"><img src="https://img.shields.io/badge/Linktree-39FF14?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"></a>
+  <a href="https://linktr.ee/devtruce"><img src="https://img.shields.io/badge/Linktree-blue?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"></a>
 </p>
 <!-- Profile Views -->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devtruce&style=flat-square&color=blue" alt=""></p>
