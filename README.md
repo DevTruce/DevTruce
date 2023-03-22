@@ -75,6 +75,6 @@
 Do what you love & love what you do, tomorrow is never promised.
 <br>
 <br>
-Hi there! My name is Truce Ramcharitar, and I'm a 22 year old self-taught Web Developer. I'm passionate about creating beautiful and functional websites/applications, and I'm constantly learning and improving my skills in web development and JavaScript. I'm currently focused on my online bootcamp so I can improve my skills. I plan to create videos and write articles about code in the future where I will aim to help others grow and learn along with me. When I'm not coding, you can find me with my family, workingout, reading or playing games. I'm excited to continue on my coding journey and see where it takes me!
+Hi there! My name is Truce Ramcharitar, and I'm a 22 year old self-taught Web Developer. I'm passionate about creating beautiful and functional websites/applications, and I'm constantly learning and improving my skills in web development and JavaScript. I'm currently focused on my online bootcamp so I can improve my skills. I plan to create videos and write articles about code in the future where I will aim to help others grow and learn along with me. When I'm not coding, you can find me with my family, working out, reading or playing games. I'm excited to continue on my coding journey and see where it takes me!
 </p>
 </details>
