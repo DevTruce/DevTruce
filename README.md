@@ -55,7 +55,6 @@
 <!-- Adobe Photoshop -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="AdobePS" width="40" height="40"/>&nbsp;
 </p>
----
 
 ### 🔥 &nbsp; My Stats :
 
