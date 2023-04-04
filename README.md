@@ -14,7 +14,7 @@
 - ⚡ In my freetime I enjoy completing code problems & playing videos games.
 - 📫 How to reach me: **DevTruce@gmail.com**
 
-#### Languanges & Technologies:
+#### Technologies:
 
 <p>
 <!-- HTML -->
@@ -45,7 +45,7 @@
 <!-- NPM --> 
 </p>
 
-#### Softwares:
+#### Tools:
 
 <p>
 <!-- Git -->
