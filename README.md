@@ -17,8 +17,6 @@
 #### Languanges & Technologies:
 
 <p>
-<!-- Git -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <!-- HTML -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <!-- CSS -->
@@ -50,11 +48,13 @@
 #### Softwares:
 
 <p>
+<!-- Git -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;  
 <!-- Adobe XD -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 <!-- Adobe Photoshop -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="AdobePS" width="40" height="40"/>&nbsp;
-
+</p>
 ---
 
 ### 🔥 &nbsp; My Stats :
