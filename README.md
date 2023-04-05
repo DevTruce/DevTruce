@@ -23,8 +23,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <!-- SASS -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-<!-- BOOTSTRAP -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <!-- JAVASCRIPT -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <!-- TYPESCRIPT -->
@@ -49,7 +47,9 @@
 
 <p>
 <!-- Git -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
+<!-- VS Code -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" **alt="Git" width="40" height="40"/>&nbsp;  
 <!-- Adobe XD -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
 <!-- Adobe Photoshop -->
@@ -74,6 +74,6 @@
 Do what you love & love what you do, tomorrow is never promised.
 <br>
 <br>
-Hi there! My name is Truce Ramcharitar, and I'm a 22 year old self-taught Web Developer. I'm passionate about creating beautiful and functional websites/applications, and I'm constantly learning and improving my skills in web development and JavaScript. I'm currently focused on my online bootcamp so I can improve my skills. I plan to create videos and write articles about code in the future where I will aim to help others grow and learn along with me. When I'm not coding, you can find me with my family, working out, reading or playing games. I'm excited to continue on my coding journey and see where it takes me!
+Hi there! My name is Truce Ramcharitar, and I'm a 22 year old self-taught Software Engineer. I'm passionate about creating beautiful and functional websites & applications. I'm constantly learning and improving my skills as a developer, I plan to create videos and write articles about code in the future where I will aim to help others grow and learn along with me. When I'm not coding, you can find me with my family, working out, reading or playing games. I'm excited to continue on my coding journey and see where it takes me!
 </p>
 </details>
