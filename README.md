@@ -1,3 +1,8 @@
+<!-- LINK -->
+<img align='left' src='imgs/link.gif' width='10%'>  
+<!-- ZELDA -->
+<img align='right' src='imgs/zelda.gif' width='10%'>
+
 <!-- Start -->
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <!-- LinkedIN -->
@@ -10,50 +15,48 @@
 
 - 🔭 I have a passion for building creative things and turning ideas into reality with code!
 - 👨‍👩‍👧 I spend most of time building web apps or hanging out with my family.
-- 📖 I am currently taking an online bootcamp to advance my skills as a developer.
+- 📖 I am currently taking online courses to advance my skills as a developer.
 - ⚡ In my freetime I enjoy completing code problems & playing videos games.
 - 📫 How to reach me: **DevTruce@gmail.com**
 
-#### Technologies:
-
-<p>
-<!-- HTML -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<!-- CSS -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<!-- SASS -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-<!-- JAVASCRIPT -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!-- TYPESCRIPT -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp;
-<!-- REACTJS -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!-- NEXTJS -->
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-<!-- EXPRESSJS -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-<!-- Redux -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<!-- NODEJS -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<!-- MONGODB -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<!-- AJAX/JSON -->
-<!-- NPM --> 
-</p>
-
-#### Tools:
+#### Languages and Tools:
 
 <p>
 <!-- Git -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
 <!-- VS Code -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" **alt="Git" width="40" height="40"/>&nbsp;  
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" **alt="Git" width="40" height="40"/>&nbsp; 
+<!-- HTML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<!-- CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<!-- SASS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+
+<!-- JAVASCRIPT -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; -->
+<!-- TYPESCRIPT -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp; -->
+<!-- REACTJS -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
+<!-- Redux -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp; -->
+<!-- NEXTJS -->
+<!-- <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp; -->
+<!-- EXPRESSJS -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp; -->
+<!-- NODEJS -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
+<!-- C# -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; -->
+<!-- MONGODB -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; -->
 <!-- Adobe XD -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp; -->
 <!-- Adobe Photoshop -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="AdobePS" width="40" height="40"/>&nbsp;
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="AdobePS" width="40" height="40"/>&nbsp; -->
+<!-- Unity Game Engine -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp; -->
 </p>
 
 ### 🔥 &nbsp; My Stats :
@@ -69,11 +72,24 @@
   More stuff about me
 </summary>
 
-<br >
-<p>
-Do what you love & love what you do, tomorrow is never promised.
-<br>
-<br>
-Hi there! My name is Truce Ramcharitar, and I'm a 22 year old self-taught Software Engineer. I'm passionate about creating beautiful and functional websites & applications. I'm constantly learning and improving my skills as a developer, I plan to create videos and write articles about code in the future where I will aim to help others grow and learn along with me. When I'm not coding, you can find me with my family, working out, reading or playing games. I'm excited to continue on my coding journey and see where it takes me!
+My name is Truce Ramcharitar I am a 22 year old Developer from Canada who likes to develop 🕸️ websites, 💻applications, 🎮 video games, 🤖 ai & many more varied things that come from my imagination.
+
+I am very passionate about programming and 🔒 cybersecurity!
+
+When I'm not coding, you can find me with my 👨‍👩‍👦 family, 💪 working out, 📖 reading or 🎮 playing games.
+
+I plan to create 🎥 videos and write 📑 articles about code in the future where I will aim to help other developers grow and improve their skills.
+
+**My Favourite Quotes:**<br>
+
+1. "Do what you love and love what you do"<br>
+   -Ray Bradbury
+
+2. "Choose a job you love, and you will never have to work a day in your life"<br>
+   -Ray Bradbury
+
+3. "There is no good in anything until it is finished"<br>
+   -Genghis Khan
+
 </p>
 </details>
