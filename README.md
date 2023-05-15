@@ -1,7 +1,7 @@
 <!-- LINK -->
-<img align='left' src='imgs/link.gif' width='10%'>  
+<!-- <img align='left' src='imgs/link.gif' width='10%'>   -->
 <!-- ZELDA -->
-<img align='right' src='imgs/zelda.gif' width='10%'>
+<!-- <img align='right' src='imgs/zelda.gif' width='10%'> -->
 
 <!-- Start -->
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -14,7 +14,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devtruce&style=flat-square&color=blue" alt=""></p>
 
 - 🔭 I have a passion for building creative things and turning ideas into reality with code!
-- 👨‍👩‍👧 I spend most of time building web apps or hanging out with my family.
+- 👨‍👩‍👧 I spend most of time building projects or hanging out with my family.
 - 📖 I am currently taking online courses to advance my skills as a developer.
 - ⚡ In my freetime I enjoy completing code problems & playing videos games.
 - 📫 How to reach me: **DevTruce@gmail.com**
@@ -72,13 +72,7 @@
   More stuff about me
 </summary>
 
-My name is Truce Ramcharitar I am a 22 year old Developer from Canada who likes to develop 🕸️ websites, 💻applications, 🎮 video games, 🤖 ai & many more varied things that come from my imagination.
-
-I am very passionate about programming and 🔒 cybersecurity!
-
-When I'm not coding, you can find me with my 👨‍👩‍👦 family, 💪 working out, 📖 reading or 🎮 playing games.
-
-I plan to create 🎥 videos and write 📑 articles about code in the future where I will aim to help other developers grow and improve their skills.
+My name is Truce Ramcharitar, I am the father to a beautiful 4 year old girl and I have an amazing fiancée who is also my high school sweetheart! I am constantly coding and always learning new things! I enjoy problem solving, building projects and helping others. When I'm not coding, you can find me with my 👨‍👩‍👦 family, 💪 working out, 📖 reading or 🎮 playing games. I plan to create 🎥 videos and write 📑 articles about code in the future where I will aim to help other developers grow and improve their skills.
 
 **My Favourite Quotes:**<br>
 
@@ -88,8 +82,8 @@ I plan to create 🎥 videos and write 📑 articles about code in the future wh
 2. "Choose a job you love, and you will never have to work a day in your life"<br>
    -Ray Bradbury
 
-3. "There is no good in anything until it is finished"<br>
-   -Genghis Khan
+3. “Empty your mind. Be formless. Shapeless. Like water. You put water into a cup, it becomes the cup. You put water into a bottle, it becomes the bottle. You put it in a teapot, it becomes the teapot. Water can flow, or it can crash. Be water, my friend.”<br>
+   -Bruce Lee
 
 </p>
 </details>
