@@ -1,7 +1,7 @@
 <!-- LINK -->
-<!-- <img align='left' src='imgs/link.gif' width='10%'>   -->
+<img align='left' src='imgs/link.gif' width='10%'>
 <!-- ZELDA -->
-<!-- <img align='right' src='imgs/zelda.gif' width='10%'> -->
+<img align='right' src='imgs/zelda.gif' width='10%'> 
 
 <!-- Start -->
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -26,13 +26,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
 <!-- VS Code -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" **alt="Git" width="40" height="40"/>&nbsp; 
+<!-- Unity Game Engine -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp; 
 <!-- HTML -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <!-- CSS -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <!-- SASS -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+<!-- JavaScript -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<!-- C# -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; 
 
 <!-- TYPESCRIPT -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript " width="40" height="40"/>&nbsp; -->
@@ -46,16 +51,13 @@
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp; -->
 <!-- NODEJS -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
-<!-- C# -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp; -->
 <!-- MONGODB -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; -->
 <!-- Adobe XD -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp; -->
 <!-- Adobe Photoshop -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="AdobePS" alt="AdobePS" width="40" height="40"/>&nbsp; -->
-<!-- Unity Game Engine -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp; -->
+
 </p>
 
 ### 🔥 &nbsp; My Stats :
