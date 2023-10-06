@@ -46,14 +46,12 @@
 # About me
 
 <p>
- <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" />
+ <!-- <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" /> -->
   
- 🔭 &emsp; I have a passion for building software and turning ideas into reality with code! <br/><br/>
- 👨‍👩‍👧 &emsp; I spend most of time building projects or hanging out with my family. <br/><br/>
- ❤️ &emsp; In my freetime I enjoy coming up with project ideas & playing videos games.<br/><br/>
- 📧 &emsp; Reach me anytime: DevTruce@Gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/DevTruce/DevTruce/issues)
-
+ ❤️&emsp;Love building projects and learning new features<br/><br/>
+ 📖&emsp;Enjoy code, finance and self-help books<br/><br/>
+ 🎮&emsp;Big fan of RTS & automation games<br/><br/>
+ 📧&emsp;Contact me: DevTruce@Gmail.com
 </p>
 
 <br/>
