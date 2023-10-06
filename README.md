@@ -46,7 +46,7 @@
 # About me
 
 <p>
- <!-- <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" /> -->
+ <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" />
   
  ❤️&emsp;Love building projects and learning new features<br/><br/>
  📖&emsp;Enjoy code, finance and self-help books<br/><br/>
