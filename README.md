@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=devtruce">「 Google Me 」</a>
     <br>
-    「 I am a software developer from <b>Canada</b> 」<br>
+    「 I am a Web Developer from <b>Canada</b> 」<br>
     <!-- #### Profile Views #### -->
 <a href="https://komarev.com/ghpvc/?username=devtruce">
   <img align="center" src="https://komarev.com/ghpvc/?username=devtruce&style=flat-square&color=blue" alt="Profile views" />
@@ -60,7 +60,6 @@
 
 ## Languages and Tools
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -73,8 +72,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+
+![Tailwind]()
+![TypeScript]()
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -85,10 +86,11 @@
 
 ## Top Repos:
 
-[![Snow Boarder Game](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=snow-boarder&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/snow-boarder)
-[![Delivery Driver Game](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=delivery-driver&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/delivery-driver)
-[![Snow Boarder Game](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=dice-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/dice-game)
-[![Snow Boarder Game](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/trillo)
+[![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=dice-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/dice-game)
+[![Trillo Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/trillo)
+[![Nexter Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=nexter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/nexter)
+[![Natours Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=natours&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/natours)
+
 
 <p align="left">
   <a href="https://github.com/DevTruce?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
