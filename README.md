@@ -87,9 +87,9 @@
 ## Top Repos:
 
 [![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=dice-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/dice-game)
+[![Splitter App](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=splitter-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/splitter-app)
 [![Trillo Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/trillo)
 [![Nexter Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=nexter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/nexter)
-[![Natours Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=natours&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/natours)
 
 
 <p align="left">
