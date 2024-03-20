@@ -32,9 +32,6 @@
  <a href="https://www.linkedin.com/in/trucer/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevTruce"/>
  </a>
- <a href="https://twitter.com/devtruce" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DevTruce"/>
- </a>
  <a href="https://www.youtube.com/@DevTruce" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DevTruce" />
  </a> 
@@ -49,7 +46,7 @@
  <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" />
   
  ❤️&emsp;Love building projects and learning new features<br/><br/>
- 📖&emsp;Enjoy code, finance and self-help books<br/><br/>
+ 📖&emsp;Enjoy code, finance and history<br/><br/>
  🎮&emsp;Big fan of RTS & automation games<br/><br/>
  📧&emsp;Contact me: DevTruce@Gmail.com
 </p>
@@ -65,10 +62,6 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![C#](https://img.shields.io/badge/CSHARP-8550cc?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-18152E?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
