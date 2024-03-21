@@ -5,7 +5,7 @@
 
 <!-- #### Intro #### -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; I am
                 <b><a target="_blank" href="https://github.com/DevTruce">Truce Ramcharitar</a></b>
         </samp>
 </h3>
@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=devtruce">「 Google Me 」</a>
     <br>
-    「 I am a Web Developer from <b>Canada</b> 」<br>
+    「 Front-End Web Developer from <b>Canada</b> 」<br>
     <!-- #### Profile Views #### -->
 <a href="https://komarev.com/ghpvc/?username=devtruce">
   <img align="center" src="https://komarev.com/ghpvc/?username=devtruce&style=flat-square&color=blue" alt="Profile views" />
@@ -45,9 +45,9 @@
 <p>
  <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" />
   
- ❤️&emsp;Love building projects and learning new features<br/><br/>
- 📖&emsp;Enjoy code, finance and history<br/><br/>
- 🎮&emsp;Big fan of RTS & automation games<br/><br/>
+ ❤️&emsp;Love for building wep applications and learning new skills<br/><br/>
+ 🤖&emsp;Fascinated with artificial intelligence & robotics<br/><br/>
+ 📖&emsp;Enjoy programming, finance and history<br/><br/>
  📧&emsp;Contact me: DevTruce@Gmail.com
 </p>
 
