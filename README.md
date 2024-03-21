@@ -45,7 +45,7 @@
 <p>
  <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" />
   
- ❤️&emsp;Love for building wep applications and learning new skills<br/><br/>
+ ❤️&emsp;Love for building web applications and learning new skills<br/><br/>
  🤖&emsp;Fascinated with artificial intelligence & robotics<br/><br/>
  📖&emsp;Enjoy programming, finance and history<br/><br/>
  📧&emsp;Contact me: TruceR@DevTruce.com
