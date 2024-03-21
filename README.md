@@ -48,7 +48,7 @@
  ❤️&emsp;Love for building wep applications and learning new skills<br/><br/>
  🤖&emsp;Fascinated with artificial intelligence & robotics<br/><br/>
  📖&emsp;Enjoy programming, finance and history<br/><br/>
- 📧&emsp;Contact me: DevTruce@Gmail.com
+ 📧&emsp;Contact me: TruceR@DevTruce.com
 </p>
 
 <br/>
