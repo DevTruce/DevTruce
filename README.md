@@ -35,7 +35,7 @@
  </a>
  <a href="https://www.youtube.com/@DevTruce" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DevTruce" />
- </a> 
+ </a>
 </p>
 <br />
 -->
@@ -45,7 +45,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="imgs/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" height="275" src="imgs/programmer.gif" alt="Coding gif" />
   
  ❤️&emsp;Love for building web applications and learning new skills<br/><br/>
  🤖&emsp;Fascinated with artificial intelligence & robotics<br/><br/>
@@ -85,9 +85,8 @@
 
 [![Splitter](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=splitter-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/splitter-app)
 [![Dice Game](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=dice-game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/dice-game)
-[![Trillo Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/DevTruce/trillo](https://github.com/DevTruce/trillo))
+[![Trillo Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](<[https://github.com/DevTruce/trillo](https://github.com/DevTruce/trillo)>)
 [![Natours Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=natours&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/natours)
-
 
 <p align="left">
   <a href="https://github.com/DevTruce?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
