@@ -40,23 +40,6 @@
 <br />
 -->
 
-<!-- #### About Section #### -->
-
-# About me
-
-<p>
- <img align="right" width="350" height="275" src="imgs/programmer.gif" alt="Coding gif" />
-  
- ❤️&emsp;Love for building web applications and learning new skills<br/><br/>
- 🤖&emsp;Fascinated with artificial intelligence & robotics<br/><br/>
- 📖&emsp;Enjoy programming, finance and history<br/><br/>
- 📧&emsp;Contact me: TruceA.Dev@Gmail.com
-</p>
-
-<br/>
-<br/>
-<br/>
-
 ## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
