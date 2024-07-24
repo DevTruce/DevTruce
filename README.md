@@ -51,6 +51,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-%23323330?style=for-the-badge&labelColor=%23323330&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-%23323330?style=for-the-badge&labelColor=%23323330&logo=react&logoColor=61DBFB)
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23323330?style=for-the-badge&labelColor=%23323330&logo=node.js&logoColor=green)
 
 <br/>
 
