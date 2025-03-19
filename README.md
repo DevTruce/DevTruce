@@ -58,8 +58,8 @@
 ## Top Repos:
 
 [![Luffy Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=Luffy-Bot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/Luffy-Bot)
-[![Splitter](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=splitter-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/splitter-app)
-[![Trillo Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=trillo&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/trillo)
+[![EVE Skill Calculator](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=skill-injector-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/skill-injector-calculator)
+[![Bookmark Manager](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=bookmark-manager&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/bookmark-manager)
 [![Natours Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=natours&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/natours)
 
 
@@ -96,18 +96,12 @@
 
 <details>
 <summary>
-  My Favourite Quotes
+  My Favourite Quote
 </summary>
 <p>
 
 1. "Do what you love and love what you do"<br>
    -Ray Bradbury
-
-2. "Choose a job you love, and you will never have to work a day in your life"<br>
-   -Ray Bradbury
-
-3. “Empty your mind. Be formless. Shapeless. Like water. You put water into a cup, it becomes the cup. You put water into a bottle, it becomes the bottle. You put it in a teapot, it becomes the teapot. Water can flow, or it can crash. Be water, my friend.”<br>
-   -Bruce Lee
 
 </p>
 </details>
