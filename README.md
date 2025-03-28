@@ -60,7 +60,7 @@
 [![Luffy Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=Luffy-Bot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/Luffy-Bot)
 [![EVE Skill Calculator](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=skill-injector-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/skill-injector-calculator)
 [![Bookmark Manager](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=bookmark-manager&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/bookmark-manager)
-[![Natours Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=natours&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/natours)
+[![Browser Extension Manager UI](https://github-readme-stats.vercel.app/api/pin/?username=DevTruce&repo=browser-extension-manager-ui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevTruce/browser-extension-manager-ui)
 
 
 <p align="left">
