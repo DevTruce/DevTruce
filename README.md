@@ -1,7 +1,7 @@
 <!-- LINK -->
-<!-- <img align='left' src='imgs/link.gif' width='10%'> -->
+<img align='left' src='imgs/link.gif' width='10%'> 
 <!-- ZELDA -->
-<!-- <img align='right' src='imgs/zelda.gif' width='10%'> -->
+<img align='right' src='imgs/zelda.gif' width='10%'> 
 
 <!-- #### Intro #### -->
 <h3 align="center">
