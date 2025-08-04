@@ -42,16 +42,16 @@
 
 ## Languages and Tools
 
-![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=61DBFB)
+![NodeJS](https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
 ![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%238511FA)
 ![Tailwind](https://img.shields.io/badge/tailwind-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=007acc)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/Typescript-%23323330?style=for-the-badge&labelColor=%23323330&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-%23323330?style=for-the-badge&labelColor=%23323330&logo=react&logoColor=61DBFB)
-![NodeJS](https://img.shields.io/badge/-NodeJS-%23323330?style=for-the-badge&labelColor=%23323330&logo=node.js&logoColor=green)
+![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css&logoColor=%231572B6)
+![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 
 <br/>
 
