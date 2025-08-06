@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=devtruce">「 Google Me 」</a>
+    <a href="https://devtruce.com/">「 Portfolio 」</a>
     <br>
     「 Front-End Web Developer from <b>Canada</b> 」<br>
     <!-- #### Profile Views #### -->
