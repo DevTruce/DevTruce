@@ -14,7 +14,7 @@
   <samp>
     <a href="https://devtruce.com/">「 Portfolio 」</a>
     <br>
-    「 Front-End Web Developer from <b>Canada</b> 」<br>
+    「 Software Developer from <b>Canada</b> 」<br>
     <!-- #### Profile Views #### -->
 <a href="https://komarev.com/ghpvc/?username=devtruce">
   <img align="center" src="https://komarev.com/ghpvc/?username=devtruce&style=flat-square&color=blue" alt="Profile views" />
@@ -24,21 +24,6 @@
   </samp>
 </p>
 
-<!-- #### SOCIAL BADGES #### -->
-<!--
-<p align="center">
- <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="DevTruce" />
- </a>
- <a href="https://www.linkedin.com/in/trucer/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevTruce"/>
- </a>
- <a href="https://www.youtube.com/@DevTruce" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="DevTruce" />
- </a>
-</p>
-<br />
--->
 
 ## Languages and Tools
 
@@ -47,7 +32,6 @@
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=61DBFB)
 ![NodeJS](https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
 ![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=hotpink)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%238511FA)
 ![Tailwind](https://img.shields.io/badge/tailwind-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=007acc)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css&logoColor=%231572B6)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
